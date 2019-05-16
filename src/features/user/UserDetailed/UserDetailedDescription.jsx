@@ -1,12 +1,12 @@
 import React from 'react';
 import { Grid, Header, Icon, Item, List, Segment } from 'semantic-ui-react';
-import format from 'date-fns/format';
+// import format from 'date-fns/format';
 
 const UserDetailedDescription = ({ profile }) => {
   let createdAt;
-  if (profile.createdAt) {
-    createdAt = format(profile.createdAt.toDate(), 'D MMM YYYY');
-  }
+  // if (profile.createdAt) {
+  //   createdAt = format(profile.createdAt.toDate(), 'D MMM YYYY');
+  // }
   return (
     <Grid.Column width={12}>
       <Segment>

@@ -9,7 +9,6 @@ import UserDetailedPage from '../../features/user/UserDetailed/UserDetailedPage'
 import PeopleDashboard from '../../features/user/PeopleDashboard/PeopleDashboard';
 import EventDetailedPage from '../../features/event/EventDetailed/EventDetailedPage';
 import HomePage from '../../features/home/HomePage';
-// import TestComponent from '../../features/testarea/TestComponent';
 import TestComponent from '../../features/testArea/TestComponent';
 import ModalManager from '../../features/modals/ModalManager';
 

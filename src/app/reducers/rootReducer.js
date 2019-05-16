@@ -3,7 +3,6 @@ import { reducer as FormReducer } from 'redux-form';
 import {reducer as toastrReducer} from 'react-redux-toastr';
 import { firebaseReducer } from 'react-redux-firebase';
 import { firestoreReducer } from 'redux-firestore'
-// import testReducer from '../../features/testarea/testReducer';
 import testReducer from '../../features/testArea/testReducer';
 import eventReducer from '../../features/event/eventReducer';
 import modalsReducer from '../../features/modals/modalReducer';
